@@ -48,5 +48,6 @@ Advantages:
 * Mackup understands applications and where they stash configuration data and **also** backs that up for you.  
 
 Resources:
-https://gist.github.com/brandonb927/3195465
-https://github.com/mathiasbynens/dotfiles/blob/master/.osx
+* https://gist.github.com/brandonb927/3195465
+* https://github.com/mathiasbynens/dotfiles/blob/master/.osx
+* https://github.com/joeyhoer/starter
